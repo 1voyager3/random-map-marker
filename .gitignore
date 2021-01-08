@@ -1,0 +1,10 @@
+# Project exclude paths
+/node_modules/
+/src/Company.js
+/src/Company.js.map
+/src/CustomMap.js
+/src/CustomMap.js.map
+/src/index.js
+/src/index.js.map
+/src/User.js
+/src/User.js.map
